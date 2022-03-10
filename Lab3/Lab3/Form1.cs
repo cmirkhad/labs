@@ -28,22 +28,22 @@ namespace Lab3
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            double i = Convert.ToDouble(textBox4.Text);
-            double b = Convert.ToDouble(textBox5.Text);
-            double c = Convert.ToDouble(textBox6.Text);
+            double i = Convert.ToDouble(textBox6.Text);
+            double b = Convert.ToDouble(textBox7.Text);
+            double c = Convert.ToDouble(textBox8.Text);
             double result = (i + b) / c;
-            textBox7.Text = Convert.ToString(result);
+            textBox9.Text = Convert.ToString(result);
             // or
             //textBox4.Text = Convert.ToString ((Convert.ToDouble (textBox1.Text) + Convert.ToDouble (textBox2.Text)) / Convert.ToDouble (textBox3.Text));
         }
         private void button2_Click(object sender, EventArgs e)
         {// check which radiobutton was selected
             if (radioButton4.Checked == true)
-                textBox8.Text = Convert.ToString(Convert.ToDouble(textBox7.Text) * 10 / 100);
+                textBox10.Text = Convert.ToString(Convert.ToDouble(textBox9.Text) * 10 / 100);
             if (radioButton5.Checked == true)
-                textBox8.Text = Convert.ToString(Convert.ToDouble(textBox7.Text) * 20 / 100);
+                textBox10.Text = Convert.ToString(Convert.ToDouble(textBox9.Text) * 20 / 100);
             if (radioButton6.Checked == true)
-                textBox8.Text = Convert.ToString(Convert.ToDouble(textBox7.Text) * 50 / 100);
+                textBox10.Text = Convert.ToString(Convert.ToDouble(textBox9.Text) * 50 / 100);
         }
 
 
