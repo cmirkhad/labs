@@ -1,0 +1,9 @@
+D:\Senior\Lab8Part2\obj\Debug\Lab8Part2.Form1.resources
+D:\Senior\Lab8Part2\obj\Debug\Lab8Part2.Properties.Resources.resources
+D:\Senior\Lab8Part2\obj\Debug\Lab8Part2.csproj.GenerateResource.cache
+D:\Senior\Lab8Part2\obj\Debug\Lab8Part2.csproj.CoreCompileInputs.cache
+D:\Senior\Lab8Part2\bin\Debug\Lab8Part2.exe.config
+D:\Senior\Lab8Part2\bin\Debug\Lab8Part2.exe
+D:\Senior\Lab8Part2\bin\Debug\Lab8Part2.pdb
+D:\Senior\Lab8Part2\obj\Debug\Lab8Part2.exe
+D:\Senior\Lab8Part2\obj\Debug\Lab8Part2.pdb
