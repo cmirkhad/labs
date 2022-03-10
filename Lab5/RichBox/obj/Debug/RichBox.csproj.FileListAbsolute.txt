@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Lab5\RichBox\bin\Debug\RichBox.exe.config
+C:\Users\User\Desktop\Lab5\RichBox\bin\Debug\RichBox.exe
+C:\Users\User\Desktop\Lab5\RichBox\bin\Debug\RichBox.pdb
+C:\Users\User\Desktop\Lab5\RichBox\obj\Debug\RichBox.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab5\RichBox\obj\Debug\RichBox.Form1.resources
+C:\Users\User\Desktop\Lab5\RichBox\obj\Debug\RichBox.Properties.Resources.resources
+C:\Users\User\Desktop\Lab5\RichBox\obj\Debug\RichBox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lab5\RichBox\obj\Debug\RichBox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab5\RichBox\obj\Debug\RichBox.exe
+C:\Users\User\Desktop\Lab5\RichBox\obj\Debug\RichBox.pdb
